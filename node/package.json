@@ -1,0 +1,12 @@
+{
+    "name": "absapp-util",
+    "version": "0.0.0",
+    "author": "ixxra <garciamx@gmail.com>",
+    "description": "utility to download the journal content",
+
+    "dependencies": {
+        "jQuery": "*",
+        "jsdom": "*",
+        "xmlhttprequest": "*"
+    }
+}
